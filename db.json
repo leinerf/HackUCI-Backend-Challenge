@@ -1,0 +1,37 @@
+{
+  "emails": [
+    {
+      "id": 0,
+      "email": "helloWorld4@gmail.com"
+    },
+    {
+      "id": 1,
+      "email": "something@gmail.com"
+    },
+    {
+      "id": 2,
+      "email": "helloWorld5@gmail.com"
+    },
+    {
+      "id": 3,
+      "email": "som3ethin1g@gmail.com"
+    },
+    {
+      "id": 4,
+      "email": "helloWorld3@gmail.com"
+    },
+    {
+      "id": 5,
+      "email": "helloWorld35@gmail.com"
+    },
+    {
+      "id": 6,
+      "email": "som3ethinwerwerg@gmail.com"
+    },
+    {
+      "id": 7,
+      "email": "weirqwer@g.com"
+    }
+  ],
+  "count": 8
+}
