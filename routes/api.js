@@ -32,7 +32,7 @@ router.post('/addEmail', function(req, res, next) {
 	email address is successfully added, return 200. 
 	Otherwise, return 400 with a custom error message 
 	with the reason
-*/
+*/	req.body.email = req.body.email.trim();
 	if(validator.isEmail(req.body.email))
 	{
 		const emails = db.get('emails')
